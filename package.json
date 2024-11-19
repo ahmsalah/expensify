@@ -15,7 +15,7 @@
 		"countries-list": "^2.5.0",
 		"date-fns": "^2.9.0",
 		"express": "^4.17.1",
-		"firebase": "^7.6.2",
+		"firebase": "^10.9.0",
 		"notistack": "^0.9.7",
 		"prop-types": "^15.7.2",
 		"react": "^16.12.0",
